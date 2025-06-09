@@ -12,24 +12,8 @@ Summary reports and visual dashboards
 
 Technologies Used
 Python 3.x
-
 Pandas, NumPy for data manipulation
-
 Matplotlib, Seaborn for visualization
-
-Jupyter Notebook for analysis and documentation
-
-How to Use
-Clone the repository:
-
-git clone https://github.com/your-username/football-injury-analysis.git
-Navigate to the project folder:
-
-cd football-injury-analysis
-Install required packages (preferably in a virtual environment):
-
-pip install -r requirements.txt
-Open and run the Jupyter notebook analysis.ipynb to explore the data and see the analysis.
 
 Data
 The dataset used in this project is included (or specify source if external). It contains anonymized injury records with player info, injury type, dates, and recovery times.
