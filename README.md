@@ -1,5 +1,7 @@
 Football Injury Analysis
+
 Overview
+
 This project analyzes football player injury data using Python to identify injury patterns, recovery times, and risk factors. The goal is to provide insights that can help coaches, medical teams, and sports scientists reduce injury risks and improve player health management.
 
 Features
